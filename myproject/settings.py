@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-)m5o*_ij0!tu!nf(+r+kp$rht2y3me3ilheee4!p(gg%g4)da_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://frontend-7w0my3tbj-henrys-projects-0faf9a57.vercel.app/"]
+ALLOWED_HOSTS = ["djangodrf-stil.onrender.com"]
 
 
 
